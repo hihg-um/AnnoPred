@@ -29,7 +29,7 @@ import itertools as it
 import h5py
 import scipy as sp
 from scipy import stats
-import cPickle
+import pickle
 from sklearn import metrics
 
 
